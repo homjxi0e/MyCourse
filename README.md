@@ -1,4 +1,4 @@
-<details><summary>What are you gonna gain in this course - شن بتكسب من الكورس?</summary>
+<details><summary>What are you gonna gain in this course - شن بتكسب من الكورس? :white_check_mark: </summary>
 <p>
 
 ```ruby

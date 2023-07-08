@@ -1,4 +1,4 @@
-<details><summary>What are gonna gain in this course?</summary>
+<details><summary>What are you gonna gain in this course - شن بتكسب من الكورس?</summary>
 <p>
 
 ```ruby

@@ -1,10 +1,11 @@
- | Web PenTesting tools used in the course | Operating System PenTesting Tools used in the course  | 
- 
+ | Web PenTesting tools used in the course | Operating System PenTesting Tools used in the course |   |
 | ------------- | ------------- |  ------------- |
-| Nmap Scanner  :white_check_mark:   | Wapiti :white_check_mark:     |   
-| Masscan Scanner :white_check_mark:     | Whatweb :white_check_mark:       |  
+| Nmap Scanner  :white_check_mark:   | Wapiti :white_check_mark:     |   |
+| Masscan Scanner :white_check_mark:     | Whatweb :white_check_mark:       |                    |
 |           |                 |                                                      |
  
+
+
 
 
 <details><summary> الدرس الاول :white_check_mark: </summary>
